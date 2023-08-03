@@ -6,7 +6,6 @@ import errorHandler from "./middlewares/erorHandler";
 const mongoose = require("mongoose");
 import path from 'path';
 
-
 global.appRoot = path.resolve(__dirname);
 app.use(express.urlencoded({ extended: false }));
 app.use(express.json())
@@ -19,7 +18,6 @@ async function main() {
   await mongoose.connect(DB_URL);
     console.log("database connected");
 }
-
 
 
 app.use(errorHandler)
