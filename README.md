@@ -1,2 +1,49 @@
 # Rest-API-using-express
-Restful api using epxress js and mongoose 
+Restful api using epxress js and mongoose
+
+{
+
+    /***💘 Todo List 💘***/
+
+/****
+ Register a user ✅
+*****/
+
+/****
+Login a user ✅
+*****/
+
+/****
+Display user data ✅
+*****/
+
+/****
+Refresh the token ✅
+*****/
+
+/****
+Logout the user ✅
+*****/
+
+/****
+Add a product ✅
+
+/****
+Update a product ✅
+*****/
+
+/****
+Get all products ✅
+*****/
+
+/****
+Get single product ✅
+*****/
+
+/****
+Delete a product ✅
+*****/
+
+  /***💘 Happy End.. 💘***/
+
+}
