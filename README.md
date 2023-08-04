@@ -1,5 +1,5 @@
 # Rest-API-using-express
-Restful api using epxress js and mongoose
+Restful api using epxress js and mongoose for an eccomerce web application
 
 {
 
@@ -47,3 +47,8 @@ Delete a product ✅
   /***💘 Happy End.. 💘***/
 
 }
+
+# overview
+This is a restfull api for building ecommerce applications in node-express and mongoose, JWT authentication. Help you to create awesome ecommerce applications by following best practices..
+
+
