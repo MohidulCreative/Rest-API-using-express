@@ -3,48 +3,29 @@ Restful api using epxress js and mongoose for an eccomerce web application
 
 {
 
-    /***💘 Todo List 💘***/
+   # 💘 Todo List 💘
 
-/****
  Register a user ✅
-*****/
 
-/****
 Login a user ✅
-*****/
 
-/****
 Display user data ✅
-*****/
 
-/****
 Refresh the token ✅
-*****/
 
-/****
 Logout the user ✅
-*****/
 
-/****
 Add a product ✅
 
-/****
 Update a product ✅
-*****/
 
-/****
 Get all products ✅
-*****/
 
-/****
 Get single product ✅
-*****/
 
-/****
 Delete a product ✅
-*****/
 
-  /***💘 Happy End.. 💘***/
+# 💘 Happy End.. 💘
 
 }
 
@@ -67,7 +48,7 @@ This is a RESTful API built using Express and Mongoose, providing backend functi
 
 To set up the API locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/ecommerce-api.git`
+1. Clone the repository: `git clone https://github.com/MohidulCreative/Rest-API-using-express.git`
 2. Navigate to the project directory: `cd ecommerce-api`
 3. Install dependencies: `npm install`
 4. Configure environment variables: Rename `.env.example` to `.env` and update the necessary variables (e.g., database connection URL, JWT secret).
@@ -75,7 +56,7 @@ To set up the API locally, follow these steps:
 
 ## Usage
 
-Once the server is running, the API will be available at `http://localhost:3000` (or the specified port). You can test the API using tools like [Postman](https://www.postman.com/) or [curl](https://curl.se/).
+Once the server is running, the API will be available at `http://localhost:5000` (or the specified port). You can test the API using tools like [Postman](https://www.postman.com/) or [curl](https://curl.se/).
 
 ## Authentication
 
@@ -133,4 +114,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any inquiries or feedback, please contact [Your Name](mailto:your.email@example.com).
+For any inquiries or feedback, please contact [Mohidul Islam](mailto:techexplorer420@gmail.com).
